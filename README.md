@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mrsack
 - 👀 I’m interested in computer programming.
-- 🌱 I’m currently learning LAPD(Linux+apache+postgresql+django).
+- 🌱 I’m currently learning LAPD(Linux+Apache+Postgresql+Django).
 - 💞️ I’m looking to collaborate on website build.
 - 📫 How to reach me: mrsack.zhl@gmail.com
 
