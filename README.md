@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mrsack
 - 👀 I’m interested in computer programming.
 - 🌱 I’m currently learning LAPD(Linux+Apache+Postgresql+Django).
-- 💞️ I’m looking to collaborate on website build.
+- 💞️ I’m looking to collaborate on website developing.
 - 📫 How to reach me: mrsack.zhl@gmail.com
 
 <!---
